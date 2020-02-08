@@ -10,5 +10,5 @@ end
 
 def link
 puts "It's Dangerous To Go Alone! Take this.\n"
-puts link_phrase
+#puts link_phrase
 end 
