@@ -10,5 +10,5 @@ end
 
 def link
   catch_phrase = "It's Dangerous To Go Alone! Take this."
-  catch_phrase
+  return catch_phrase
 end 
