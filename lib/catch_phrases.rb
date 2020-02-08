@@ -10,5 +10,5 @@ end
 
 def link
 link_phrase = "It's Dangerous To Go Alone! Take this."
-puts link_phrase
+print link_phrase
 end 
